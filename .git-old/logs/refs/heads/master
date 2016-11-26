@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 627a1484c84d5575fdf9a6c757174d13930cba16 sam0191 <samer.abunuwara@gmail.com> 1478698271 +0200	commit (initial): firsat commit
+627a1484c84d5575fdf9a6c757174d13930cba16 9fa630d3242cb14f3263266f2104031cad1e60c1 sam0191 <samer.abunuwara@gmail.com> 1478702505 +0200	commit: Setup rspec and capybara
+9fa630d3242cb14f3263266f2104031cad1e60c1 6cb8e214db0df311486f9acef9d069812eff9660 sam0191 <samer.abunuwara@gmail.com> 1478703339 +0200	commit: Install guard
+6cb8e214db0df311486f9acef9d069812eff9660 5e59e53d9ef956bb73663e3a8c156b0481630e22 sam0191 <samer.abunuwara@gmail.com> 1478722807 +0200	commit: modified spec folders
+5e59e53d9ef956bb73663e3a8c156b0481630e22 98bacc65cc3636c9f84b16bee1774399e7ccdf7c sam0191 <samer.abunuwara@gmail.com> 1478724083 +0200	merge create-home-page: Fast-forward
+98bacc65cc3636c9f84b16bee1774399e7ccdf7c 09968678e14b988328f75b480f786281343ee424 sam0191 <samer.abunuwara@gmail.com> 1478731958 +0200	commit: probelm with home link
+09968678e14b988328f75b480f786281343ee424 d1427eabed3b31c2c8dfd1c37edacc0f60422bf3 sam0191 <samer.abunuwara@gmail.com> 1479500084 +0200	commit (merge): sda
+d1427eabed3b31c2c8dfd1c37edacc0f60422bf3 2d8fc4d35f42e86ce3206c1337af42ec00d52271 sam0191 <samer.abunuwara@gmail.com> 1480107666 +0200	commit: add bootstrap
+2d8fc4d35f42e86ce3206c1337af42ec00d52271 339a463e7ec9625c22010a6ef6cfcd7f83c82bc5 sam0191 <samer.abunuwara@gmail.com> 1480163304 +0200	commit: Setup devise user
+339a463e7ec9625c22010a6ef6cfcd7f83c82bc5 5db53648defa98291b4ad3d010902b3d71bfdb07 sam0191 <samer.abunuwara@gmail.com> 1480164254 +0200	commit: creating feature spec for sign up user
