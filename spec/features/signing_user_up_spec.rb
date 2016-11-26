@@ -9,9 +9,9 @@ RSpec.feature("signing users up") do
 
 		fill_in "Email", with: "sam@example.com"
 		fill_in "Password", with: "11111111"
-		fill_in "Password Confirmation", with: "11111111"
+		fill_in "Password confirmation", with: "11111111"
 
-		click_button "Sign Up"
+		click_button "Sign up"
 		expect(page).to have_content("You have signed up successfully")
 	end
 end
