@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.6'
 gem 'bootstrap-sass', '~> 3.3.6'
 gem 'autoprefixer-rails', '~> 6.5', '>= 6.5.0.2'
+gem 'jquery-ui-rails', '~> 6.0', '>= 6.0.1'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 gem 'devise', '~> 4.2'
