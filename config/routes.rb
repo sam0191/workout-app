@@ -1,5 +1,6 @@
 Rails.application.routes.draw do
-  devise_for :users
+  devise_for :users, :controllers => { registrations: 'registrations'}
+  #Since we modified the registration controller and subclassses from devise we want to medify (devise_for :users)
   get 'dashboard/index'
 
   resources :users do
